@@ -18,6 +18,6 @@ Description: Extremely Fast Compression algorithm http://www.lz4.org
 
 Package: liblz4-dev
 Architecture: any
-Depends: ${shlibs:Depends}, ${misc:Depends}
+Depends: ${misc:Depends}, liblz4 (= ${binary:Version})
 Description: Extremely Fast Compression algorithm http://www.lz4.org
  Development files.
