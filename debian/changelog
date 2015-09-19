@@ -1,3 +1,9 @@
+liblz4 (0.131-1) unstable; urgency=low
+
+  * Updated devel package dependencies
+
+ -- Evgeniy Polyakov <zbr@ioremap.net>  Sat, 19 Sep 2015 20:43:20 +0400
+
 liblz4 (0.131) unstable; urgency=low
 
   * New    : Dos/DJGPP target, thanks to Louis Santillan (#114)
